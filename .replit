@@ -1,0 +1,4 @@
+run = "rm bin/* ; make"
+
+[nix]
+channel = "stable-21_11"
